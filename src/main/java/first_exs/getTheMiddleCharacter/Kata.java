@@ -1,4 +1,4 @@
-package getTheMiddleCharacter;
+package first_exs.getTheMiddleCharacter;
 
 public class Kata {
     public static String getMiddle(String word) {

@@ -1,4 +1,4 @@
-package descendingOrder;
+package first_exs.descendingOrder;
 
 import org.junit.Test;
 
